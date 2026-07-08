@@ -1,0 +1,11 @@
+{
+  "name": "my-portfolio-website",
+  "version": "1.0.0",
+  "description": "Portfolio site with a Node.js contact backend",
+  "private": true,
+  "scripts": {
+    "install": "npm --prefix backend install",
+    "dev": "npm --prefix backend run dev",
+    "start": "npm --prefix backend start"
+  }
+}
